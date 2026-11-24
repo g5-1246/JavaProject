@@ -20,9 +20,8 @@ public class Patient {
         this.contact = contact;
         this.address = address;
     }
-    
-    // Getter methods
 
+    // Getter methods
     public int getPatientId() {
         return patientId;
     }
