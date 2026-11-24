@@ -1,0 +1,3 @@
+billId,patientId,patientName,doctorId,doctorName,consultationFee,otherCharges,amountPaid,paymentMethod,paymentStatus,createdAt
+3001,1001,"harshita",2002,"""Dr. Mayank Garg""",900.0,800.0,1700.0,"UPI","Paid","2026-11-12T23:54:02.733658400"
+3002,1004,"Viru",2002,"Dr. Mayank Garg",900.0,760.0,1200.0,"Cash","Partial","2026-11-17T10:25:30.171389500"

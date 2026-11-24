@@ -1,0 +1,4 @@
+caseId,patientId,patientName,contact,location,severity,description,status,reportedAt
+4001,1001,"harshita","9876543211","outside ward no 10","Critical","leg broken, breathing slow and major marks on chest","Open","2026-11-12T23:53:00.298757600"
+4002,1001,"harshita","9876543211","neelam hospital","Medium","heartbeat at max level","Open","2026-11-13T09:29:22.531447500"
+4003,1002,"Mayank Garg","9877423122","Chitkara University","Critical","Heacdache","Resolved","2026-11-19T15:08:43.132612300"
